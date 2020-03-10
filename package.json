@@ -1,0 +1,14 @@
+{
+  "name": "standard-logs",
+  "version": "1.0.0",
+  "description": "Logs que permiten ajustarse a estandares a traves de clases",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "logs"
+  ],
+  "author": "José Gabriel Ortiz",
+  "license": "ISC"
+}
